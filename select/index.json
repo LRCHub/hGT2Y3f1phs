@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "プラトー",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-01-13T21:01:12.425013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Plateau [プラトー]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_Plateau_[プラトー]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プラトー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_プラトー_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プラトー",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_プラトー_サカナクション.txt"
+    }
+  ]
+}
